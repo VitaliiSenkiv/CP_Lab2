@@ -1,0 +1,120 @@
+[
+{
+ "type" : "computer",
+ "baseInfo" :
+  {
+      "model" : "X24 v07",
+      "price" : 12499.0,
+      "energyConsumptionInWh" : 500.0,
+      "manufacturerName" : "ARTLINE",
+      "energyEfficientClass" : "A"
+  },
+ "computerInfo" :
+  {
+    "processorName" : "AMD Athlon X4 950",
+    "graphicsCardName" : "nVidia GeForce GT 1030",
+    "memoryAmount" : 1024,
+    "amountOfRam" : 8192,
+    "screenPpi" : 300
+  }
+}, 
+{
+ "type" : "printer",
+ "baseInfo" :
+  {
+    "model" : "Ink Efficiency E414",
+    "price" : 3753.0,
+    "energyConsumptionInWh" : 9.0,
+    "manufacturerName" : "Canon",
+    "energyEfficientClass" : "A+"
+  },
+ "printerInfo" :
+  {
+    "printTechnology" : "Inject",
+    "maxPaperSizeInFormatA" : 4,
+    "isMonochrome" : false,
+    "numberOfDpi" : 600,
+    "interfaces" : ["USB", "Ethernet", "Wi-Fi", "Bluetooth", "NFC"],
+    "hasCardReaderSupport" : true
+  }
+}, 
+{
+ "type" : "photocopier",
+ "baseInfo" :
+  {
+    "model" : "Phaser 3020BI",
+    "price" : 5821.0,
+    "energyConsumptionInWh" : 313.0,
+    "manufacturerName" : "Xerox",
+    "energyEfficientClass" : "D"
+  },
+ "photocopierInfo" :
+  {
+    "opticalResolutionX" : 1200,
+    "opticalResolutionY" : 1200,
+    "maxColorBitrate" : 1024,
+    "maxScanningSpeed" : 20.0,
+    "scanningSurfaceWidthInCm" : 21.6,
+    "scanningSurfaceHeightInCm" : 35.6
+  }
+},
+{
+  "type" : "computer",
+  "baseInfo" :
+  {
+    "model" : "ROG ULTRA",
+    "price" : 122499.0,
+    "energyConsumptionInWh" : 1500.0,
+    "manufacturerName" : "ASUS",
+    "energyEfficientClass" : "C"
+  },
+  "computerInfo" :
+  {
+    "processorName" : "Intel xeon 9k",
+    "graphicsCardName" : "nVidia GeForce RTX 9080",
+    "memoryAmount" : 10024,
+    "amountOfRam" : 80192,
+    "screenPpi" : 3000
+  }
+},
+{
+  "type" : "printer",
+  "baseInfo" :
+  {
+    "model" : "Ink Efficiency E214",
+    "price" : 13553.0,
+    "energyConsumptionInWh" : 9.0,
+    "manufacturerName" : "Giovanna",
+    "energyEfficientClass" : "A+++"
+  },
+  "printerInfo" :
+  {
+    "printTechnology" : "Matrix",
+    "maxPaperSizeInFormatA" : 3,
+    "isMonochrome" : false,
+    "numberOfDpi" : 800,
+    "interfaces" : ["USB", "Wi-Fi", "NFC"],
+    "hasCardReaderSupport" : false
+  }
+},
+{
+  "type" : "photocopier",
+  "baseInfo" :
+  {
+    "model" : "Laser 3000 Ultra",
+    "price" : 55821.0,
+    "energyConsumptionInWh" : 213.0,
+    "manufacturerName" : "Jotaro",
+    "energyEfficientClass" : "A++"
+  },
+  "photocopierInfo" :
+  {
+    "opticalResolutionX" : 2100,
+    "opticalResolutionY" : 2100,
+    "maxColorBitrate" : 4096,
+    "maxScanningSpeed" : 200.0,
+    "scanningSurfaceWidthInCm" : 21.6,
+    "scanningSurfaceHeightInCm" : 35.6
+  }
+}
+]
